@@ -23,6 +23,7 @@ devtools::install_github("DanielBonnery/dataBeef")
 ```r
 library(dataBeef)
 data(beef)
+require(ggplot2)
 ggplot(beef,aes(x,y/10000))+geom_point()+xlab("Number of beef cattle")+ylab("Beef income in $0000")
 ```
 
