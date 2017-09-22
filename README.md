@@ -1,9 +1,9 @@
 # Beef data from Dorfman (1993) and Chambers et al. (1993)
-`dataBeef` contains the data from  This table contains the data of the papers
-  "Dorfman, A. H. (1993), "A Comparison of Design-Based and Model-Based
+`dataBeef` contains the data from  the papers
+- "Dorfman, A. H. (1993), "A Comparison of Design-Based and Model-Based
  Estimators of the Finite Population Distribution Function. The Australian
  Journal of Statistics, 35 and 
- "Chambers, Raymond L., Alan H. Dorfman, and Thomas E. Wehrly. "Bias robust estimation in finite populations using nonparametric calibration." Journal of the American Statistical Association 88.421 (1993): 268-277.
+- "Chambers, Raymond L., Alan H. Dorfman, and Thomas E. Wehrly. "Bias robust estimation in finite populations using nonparametric calibration." Journal of the American Statistical Association 88.421 (1993): 268-277.
  
 
 
